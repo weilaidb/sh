@@ -63,3 +63,9 @@ do
      ((sum+=n))
 done
 echo "The sum is "$sum
+
+
+for str in "C语言中文网" "http://c.biancheng.net/" "成立7年了" "日IP数万"  "xiaopihai"
+do
+    echo $str
+done
